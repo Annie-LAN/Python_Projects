@@ -11,7 +11,7 @@ The game illustrated here is between the player and the computer. There can be m
     Rule: player can count up to 3 numbers each time.
 
 
-???? Winning against the computer can be possible by choosing to play second. (design this way, could be more random in real life)
+Winning against the computer can be possible by choosing to play second. (design this way, could be more random in real life)
 computer always try to reach the near multiple.
 allowed numbers to count: 1~3
 The strategy is to call numbers till the multiple of 4 which would eventually lead to 21 on computer hence making the player the winner. 
